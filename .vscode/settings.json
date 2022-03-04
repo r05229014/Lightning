@@ -1,0 +1,7 @@
+{
+    "python.linting.banditEnabled": false,
+    "python.linting.pycodestyleEnabled": false,
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true,
+    "python.pythonPath": "/home/erica/anaconda3/envs/torch/bin/python"
+}
